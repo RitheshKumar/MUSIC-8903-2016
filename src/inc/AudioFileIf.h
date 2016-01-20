@@ -69,7 +69,9 @@ public:
     /*! close the current file
     \return Error_t
     */
-    virtual Error_t closeFile () = 0;
+    virtual Error_t closeFile () = 0; // = 0 is for class methods only. Since this is purely virtual, it makes sure that
+                                      // that you don't have to define it in this base. The derived classes have to implement
+                                      // it.    
 
     /*! read data from file
     \param float * * ppfAudioData: [channels][iNumFrames]
