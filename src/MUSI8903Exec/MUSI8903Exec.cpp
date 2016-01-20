@@ -93,10 +93,10 @@ int main(int argc, char* argv[])
     // clean-up
     
     for (int i=0; i<numChannels; i++) {
-        delete ppfAudioData[i];
+        delete [] ppfAudioData[i];
     }
 
-    delete ppfAudioData;
+    delete [] ppfAudioData;
     
     CAudioFileIf::destroy(phAudioFile);
     

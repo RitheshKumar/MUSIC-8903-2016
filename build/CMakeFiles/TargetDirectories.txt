@@ -1,5 +1,0 @@
-/Users/Rithesh/Documents/Learn C++/ASE/MUSIC-8903-2016/build/AudioFileIO/sndlib/CMakeFiles/sndlib.dir
-/Users/Rithesh/Documents/Learn C++/ASE/MUSIC-8903-2016/build/CMakeFiles/ALL_BUILD.dir
-/Users/Rithesh/Documents/Learn C++/ASE/MUSIC-8903-2016/build/AudioFileIO/CMakeFiles/AudioFileIO.dir
-/Users/Rithesh/Documents/Learn C++/ASE/MUSIC-8903-2016/build/CMakeFiles/ZERO_CHECK.dir
-/Users/Rithesh/Documents/Learn C++/ASE/MUSIC-8903-2016/build/MUSI8903Exec/CMakeFiles/MUSI8903Exec.dir
